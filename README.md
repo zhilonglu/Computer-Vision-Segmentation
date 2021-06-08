@@ -4,3 +4,4 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 
 ## Related resources
 * [Few shot semantic segmentation papers](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers)
+* [awesome-weakly-supervised-segmentation](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
