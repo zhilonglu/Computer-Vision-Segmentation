@@ -9,6 +9,7 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 * [DeepGlobe Land Cover Classification Challenge遥感影像语义分割](https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus)
 * [Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net.](https://github.com/LeeJunHyun/Image_Segmentation)
 * [You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery](https://github.com/CosmiQ/yolt)
+* [基于 DeepLab-v3+ 实现遥感图像的土地分类](https://github.com/signcl/deeplab-remote-sensing)
 
 ## Related resources
 * [Few shot semantic segmentation papers](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers)
