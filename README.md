@@ -20,3 +20,7 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 * [Resources of semantic segmantation based on Deep Learning model](https://github.com/tangzhenyu/SemanticSegmentation_DL)
 * [PyTorch for Semantic Segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation)
 * [Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetps/pytorch-semseg)
+* [Semantic Segmentation in Pytorch](https://github.com/hszhao/semseg)
+* [Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS)
+* [Semantic segmentation models, datasets and losses implemented in PyTorch.](https://github.com/yassouali/pytorch-segmentation)
+* [Amazing Semantic Segmentation on Tensorflow && Keras](https://github.com/luyanger1799/Amazing-Semantic-Segmentation)
