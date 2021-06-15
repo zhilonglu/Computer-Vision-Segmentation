@@ -7,7 +7,6 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 * [Sparse Representation and Intelligent Analysis of 2019 Remote Sensing Image competition](https://github.com/TachibanaYoshino/Remote-sensing-image-semantic-segmentation)
 * [Land Cover Classification With Low-Resolution Training Labels](https://github.com/lukasliebel/dfc2020_baseline)
 * [DeepGlobe Land Cover Classification Challenge遥感影像语义分割](https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus)
-* [Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net.](https://github.com/LeeJunHyun/Image_Segmentation)
 * [You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery](https://github.com/CosmiQ/yolt)
 * [基于 DeepLab-v3+ 实现遥感图像的土地分类](https://github.com/signcl/deeplab-remote-sensing)
 
@@ -24,3 +23,4 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 * [Fully Convolutional Instance-aware Semantic Segmentation](https://github.com/msracver/FCIS)
 * [Semantic segmentation models, datasets and losses implemented in PyTorch.](https://github.com/yassouali/pytorch-segmentation)
 * [Amazing Semantic Segmentation on Tensorflow && Keras](https://github.com/luyanger1799/Amazing-Semantic-Segmentation)
+* [Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net](https://github.com/LeeJunHyun/Image_Segmentation)
