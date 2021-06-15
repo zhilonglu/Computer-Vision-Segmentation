@@ -15,3 +15,8 @@ All papers and codes related to segmentation tasks, including semantic segmentat
 * [Few shot semantic segmentation papers](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers)
 * [awesome-weakly-supervised-segmentation](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
 * [Semantic Segmentation on PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
+* [awesome semantic segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
+* [Resources of semantic segmantation based on Deep Learning model](https://github.com/tangzhenyu/SemanticSegmentation_DL)
+* [PyTorch for Semantic Segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation)
+* [Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetps/pytorch-semseg)
